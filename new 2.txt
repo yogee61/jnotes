@@ -1,0 +1,237 @@
+1.1. Introduction To Java 
+1.2. Java History 
+1.3. Why Java 
+1.4. Features of Java 
+		-simple , robust , secure , oops , multithreaded , platform independent , architectural neural , high performance 
+1.5. Environment Setup 
+1.6. Hello World Application 
+1.7. Java Program Internal 
+1.8. JDK, JRE, JVM 
+1.9. JVM- Java Virtual Machine 
+1.10. Class, Objects, Methods, Data Types 
+1.11. Variables 
+1.12. Type Casting 
+1.13. Operators 
+1.14. Java Comments 
+1.15. Object Oriented Programming Concepts 
+1. Abstraction 
+2. Encapsulation 
+3. Polymorphism 
+4. Inheritance 
+1.16. Java Coding Standards 
+1.17. Package – Creating package, naming package 
+1.18. Java Keywords 
+1.19. Access Specifiers – Public, Private, Protected, Default 
+1.20. Static Concept – Block, Variable, Method, Class 
+1.21. Final Concept- Variable, Method, Class 
+1.22. Scanner Class 
+1.23. Control Statement – If, If…else, Nested if…else and Switch Case 
+1.24. Java Break Statement 
+1.25. Java Continue Statement 
+1.26. Flow Statement- for, while, do..while 
+1.27. Constructor- Default, Parameterized 
+1.28. Inheritance 
+1.29. Extends, super and this keyword 
+1.30. Method Overloading, Method Overriding 
+1.31. Interface
+1.32. Abstract Class 
+1.33. Abstract Class vs Interface 
+1.34. Garbage Collection 
+1.35. Marker Interface 
+1.36. Serialization 
+1.37. Transient 
+1.38. Java instanceof 
+1.39. Instance initializer block 
+1.40. Exception Handling 
+1.41. Exception Handling- try, catch, throw, throws, finally 
+1.42. String Concept 
+				▪ String Basics 
+				▪ String Methods 
+1.43. String Buffer 
+1.44. String Builder 
+1.45. Custom Immutable Class 
+1.46. Java - Arrays 
+1.47. Collection Framework - - - 
+Collection Basics 
+Iterator Interface 
+Methods of Collection Interface 
+1. List 
+A] Array List 
+B] Linked List 
+C] Vector 
+2. Set 
+A] Hash Set 
+B] Tree Set 
+3. Map 
+A] Hash Map 
+B] Tree Map 
+C] Hashtable 
+1.48. Collection Framework Advance Concepts 
+1. Comparable Interface 
+2. Comparator Interface 
+3. Collections class 
+4. Differentiate Comparable and Comparator 
+5. LinkedHashSet 
+6. LinkedHashMap 
+7. ConcurrentHashMap 
+8. Fail-Fast Iterator 
+9. Fail-Safe Iterator 
+10. 
+Collection with Stream API 
+1.49. Java Enum 
+1.50. Date Concept 
+1.51. File Handling Concept 
+1. File Handling Basics 
+2. Create Folder 
+3. Create File- .txt. .pdf, .xlsx, .docs, etc. 
+4. Write File 
+5. Read File 
+6. Delete File 
+1.52. Thread 
+1. Thread Concept  
+2. Thread Lifecycle 
+3. Extends Thread 
+4. Implement Runnable Interface 
+5. Thread Priorities 
+6. Thread Methods 
+1.53. Multithreading 
+1.54. Thread Synchronization 
+1. Synchronization 
+2. Object Locking 
+3. Inter Thread Communication 
+1.55. Volatile Keyword in Java 
+1.56. JDK 1.8.0 New Features with Hands-on 
+1. Lambda Expression 
+2. Functional Interface 
+3. Default Method in Interface 
+4. Static Method in Interface 
+5. Method References 
+6. Date Time API 
+7. Stream API in details[All Advanced concepts as per Industry Practices] 
+8. Collectors 
+9. For each Loop 
+10. 
+String Joiner Class 
+11. 
+12. 
+Parallel Sort 
+Optional Class 
+1.57. JDK 11 New Features with Hands-on 
+1.58. JDK 17 New Features with Hands-on 
+1.59. Core Java Bank Application 
+1. Deposit 
+2. Withdraw 
+3. Transfer 
+4. OTP Functionality 
+1.60. Java Mail API- Realtime Live Implementation 
+Programming practices, Concepts & Interview Preparation 
+2. J2EE 
+2.1 JDBC 
+1. JDBC Introduction 
+2. JDBC Architecture 
+3. Database Overview 
+4. MySQL Database Benefits 
+5. SQL Queries 
+6. Create Database 
+7. Create Table 
+8. Insert, Update, Delete 
+9. Truncate 
+10. SQL Join 
+• Inner Join 
+• Left Outer Join 
+• Right Outer Join 
+• Full Outer Join 
+ 
+11. Aggregate Function 
+1. MIN 
+2. MAX 
+3. AVG 
+4. SUM 
+5. COUNT 
+ 
+12. SQL HAVING Clause 
+13. GROUP BY 
+14. ORDER BY 
+15. SQL Aliases 
+16. SQL LIKE Operator 
+17. SQL IN 
+18. SQL NOT IN 
+19. SQL Between 
+20. SQL LIMIT 
+21. SQL Stored Procedures 
+22. Java Application Using JDBC Connectivity 
+23. Handling SQL Exceptions 
+24. DriverManager 
+25. ResultSet 
+26. Connection 
+27. SQL Statement 
+28. JDBC Connectivity Steps 
+29. Store and Read Image in SQL 
+30. SQL Queries using SQLYog/Workbench and JDBC CRUD 
+2.2 Servlet 
+2.2.1 
+2.2.2 
+2.2.3 
+2.2.4 
+2.2.5 
+2.2.6 
+2.2.7 
+2.2.8 
+2.2.9 
+Servlet Basics 
+Web Terminology 
+Need of Server-Side Programming 
+Servlet Life Cycle 
+1. init()  
+2. service
+doGet() 
+doPost() 
+3.   destroy() 
+Servlet Hello World Application 
+Deployment Descriptor/Web.xml Structure 
+Servlets - Annotations 
+Servlet Directives- include(), forword(), sendRedirictive() 
+HttpServletRequest, HttpServletResponse in Servlet 
+2.2.10 Servlet and JDBC Integration 
+2.2.11 Servlets – MySQL Database Access 
+2.2.12 Servlets - Page Redirection 
+2.2.13 
+2.2.14 
+2.2.15 
+2.2.16 
+2.2.17 
+2.1 JSP 
+2.1.1 
+2.1.2 
+2.1.3 
+2.1.4 
+2.1.5 
+2.1.6 
+2.1.7 
+Servlet, HTML 5, MySQL-JDBC, Apache Tomcat using Real Time SignUp/SignIn Application 
+Servlet, JSP, MySQL- JDBC, Apache Tomcat using Custom CRUD Application 
+Servlet, JSP, Java Mail API Live Implementation 
+Servlet, JSP, MySQL- JDBC, Apache Tomcat using Custom HRM Project 
+Servlet, JSP, MySQL- JDBC, Apache Tomcat using Custom CRM Project 
+JSP Basics 
+JSP Overview 
+Scriplet Tag 
+Declaration Tag 
+JSTL- JSP Standard Tag Library 
+JSP Registration Form JDBC- MySQL, Apache Tomcat 
+Servlet, JSP, MySQL- JDBC, Apache Tomcat SignUp/SignIn Application 
+2.1.8 
+2.1.9 
+Servlet, JSP, MySQL- JDBC, Apache Tomcat To-Do Task Application 
+Servlet, JSP, MySQL- JDBC, Apache Tomcat using Custom CRUD Application with JDK 
+Advanced features 
+2.1.10 Servlet, JSP, MySQL- JDBC, Apache Tomcat using Custom CRUD Application with different 
+Date Patterns and time zones as per Industrial Practices 
+2.1.11 
+2.1.12 
+2.1.13 
+2.1.14 
+Servlet, JSP, MySQL- JDBC, Apache Tomcat Using Advanced Product Management Project 
+Servlets, JSP Advanced – Debugging 
+Servlet, JSP, MySQL- JDBC, Tomcat Java 8 Features Live Implementations 
+Servlet, JSP, MySQL- JDBC, Apache Tomcat Live Project 
